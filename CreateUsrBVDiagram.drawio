@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T16:58:46.976Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="CWNwYUa6PbkLSj957dT0" version="16.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-03T16:58:56.273Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="aoBgfc29ApttlfTjnV8G" version="16.1.0" type="github" pages="6">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -87,7 +87,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="291" y="440" />
-              <mxPoint x="248" y="440" />
+              <mxPoint x="255" y="440" />
             </Array>
           </mxGeometry>
         </mxCell>
