@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T16:58:56.273Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="aoBgfc29ApttlfTjnV8G" version="16.1.0" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-03T16:59:27.940Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="UnygucnaHEjrhIh9p4iP" version="16.1.0" type="github" pages="6">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Bz0GTLLeudhLU83xgHdH" name="DiagramaDespliegue">
-    <mxGraphModel dx="1695" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="_YSctVdKPvV12GA2VOCD-0" />
         <mxCell id="_YSctVdKPvV12GA2VOCD-1" parent="_YSctVdKPvV12GA2VOCD-0" />
@@ -75,8 +75,8 @@
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-17" target="uyaS-0h4w8pPvJDCUpg5-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-11" value="BATRANSA&#xa;10.1.99.141&#xa;nts_tarcred /&#xa; Sige_Catalogo / &#xa;Sige_Seguridad" style="swimlane;startSize=70;fontSize=10;" parent="_YSctVdKPvV12GA2VOCD-1" vertex="1">
-          <mxGeometry x="210" y="504" width="180" height="208" as="geometry">
+        <mxCell id="uyaS-0h4w8pPvJDCUpg5-11" value="BATRANSA&#xa;10.1.99.141&#xa;nts_tarcred &#xa; Sige_Catalogo &#xa;Sige_Seguridad" style="swimlane;startSize=70;fontSize=10;" parent="_YSctVdKPvV12GA2VOCD-1" vertex="1">
+          <mxGeometry x="210" y="495" width="180" height="208" as="geometry">
             <mxRectangle x="203" y="492" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -112,38 +112,6 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-21" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="uyaS-0h4w8pPvJDCUpg5-20" vertex="1">
-          <mxGeometry x="41.8" y="56" width="98.4" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-24" value="BATRANSA&#xa;10.1.99.141&#xa;Sige_Seguridad" style="swimlane;startSize=50;fontSize=10;" parent="_YSctVdKPvV12GA2VOCD-1" vertex="1">
-          <mxGeometry x="8" y="492" width="180" height="180" as="geometry">
-            <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-25" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="uyaS-0h4w8pPvJDCUpg5-24" vertex="1">
-          <mxGeometry x="41.8" y="56" width="98.4" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="_YSctVdKPvV12GA2VOCD-1" target="uyaS-0h4w8pPvJDCUpg5-24" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="246" y="310" />
-              <mxPoint x="53" y="310" />
-            </Array>
-            <mxPoint x="246" y="310" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-28" target="uyaS-0h4w8pPvJDCUpg5-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-110" y="285" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-28" value="BATRANSA&#xa;10.1.99.141&#xa;Sige_Catalogo" style="swimlane;startSize=50;fontSize=10;" parent="_YSctVdKPvV12GA2VOCD-1" vertex="1">
-          <mxGeometry x="-200" y="492" width="180" height="180" as="geometry">
-            <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-29" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="uyaS-0h4w8pPvJDCUpg5-28" vertex="1">
           <mxGeometry x="41.8" y="56" width="98.4" height="120" as="geometry" />
         </mxCell>
         <mxCell id="u_KxbNGc8AKxNMHF0Q1M-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-8" target="uyaS-0h4w8pPvJDCUpg5-20">
