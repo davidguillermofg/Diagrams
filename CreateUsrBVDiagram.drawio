@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T16:46:44.201Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="pV7ZZtLv_yBmFNZXnVRu" version="16.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-03T16:54:00.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6abCH2vbcOoa6azEzt9z" version="16.1.2" type="github" pages="6">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -45,14 +45,6 @@
       <root>
         <mxCell id="_YSctVdKPvV12GA2VOCD-0" />
         <mxCell id="_YSctVdKPvV12GA2VOCD-1" parent="_YSctVdKPvV12GA2VOCD-0" />
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-4" target="uyaS-0h4w8pPvJDCUpg5-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="190" y="106" />
-              <mxPoint x="190" y="106" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-4" target="uyaS-0h4w8pPvJDCUpg5-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -69,9 +61,6 @@
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-4" value="" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;fontSize=10;" vertex="1" parent="_YSctVdKPvV12GA2VOCD-1">
           <mxGeometry x="220" y="74" width="53" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=10;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-6" target="uyaS-0h4w8pPvJDCUpg5-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-6" value="MICROSERVICIO&#xa;10.1.1.XXX" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="_YSctVdKPvV12GA2VOCD-1">
           <mxGeometry x="316" y="147" width="180" height="180" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
@@ -83,7 +72,7 @@
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-8" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;&lt;b&gt;SERVICE&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;br&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;PREGUNTASDESAFIO:PORT&lt;/span&gt;&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=10;" vertex="1" parent="uyaS-0h4w8pPvJDCUpg5-6">
           <mxGeometry x="-70" y="128" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-17" target="uyaS-0h4w8pPvJDCUpg5-15">
+        <mxCell id="uyaS-0h4w8pPvJDCUpg5-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.68;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-17" target="uyaS-0h4w8pPvJDCUpg5-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.317;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=10;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-11" target="uyaS-0h4w8pPvJDCUpg5-8">
@@ -111,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-15" target="uyaS-0h4w8pPvJDCUpg5-4">
+        <mxCell id="uyaS-0h4w8pPvJDCUpg5-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-15" target="uyaS-0h4w8pPvJDCUpg5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-15" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.web_browser;" vertex="1" parent="_YSctVdKPvV12GA2VOCD-1">
