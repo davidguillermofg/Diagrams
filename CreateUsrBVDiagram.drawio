@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-03T16:54:00.074Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="6abCH2vbcOoa6azEzt9z" version="16.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-03T16:55:54.347Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="ROPF40dhEET4XffPwJFM" version="16.1.2" type="github" pages="6">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -166,7 +166,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-28" target="uyaS-0h4w8pPvJDCUpg5-8">
+        <mxCell id="uyaS-0h4w8pPvJDCUpg5-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-28" target="uyaS-0h4w8pPvJDCUpg5-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="-110" y="285" />
@@ -180,11 +180,6 @@
         </mxCell>
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-29" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="uyaS-0h4w8pPvJDCUpg5-28">
           <mxGeometry x="41.8" y="56" width="98.4" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="uyaS-0h4w8pPvJDCUpg5-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-100" y="490" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
