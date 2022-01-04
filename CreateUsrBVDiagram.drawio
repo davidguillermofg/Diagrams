@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T16:51:59.947Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="90I4PBVaMZgEL624uz7-" version="16.1.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-01-04T16:52:43.880Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2ThNnKfCig2zr1Fl74OI" version="16.1.2" type="github" pages="6">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="9CYHj0aFYEfQo12m--S_-6" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="9CYHj0aFYEfQo12m--S_-5">
           <mxGeometry y="38" width="59.733333333333334" height="74.66666666666667" as="geometry" />
         </mxCell>
-        <mxCell id="9CYHj0aFYEfQo12m--S_-7" value="BA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9CYHj0aFYEfQo12m--S_-5">
-          <mxGeometry x="14.87" y="18" width="30" height="20" as="geometry" />
+        <mxCell id="9CYHj0aFYEfQo12m--S_-7" value="BancoAustro" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="9CYHj0aFYEfQo12m--S_-5">
+          <mxGeometry x="-10.13" y="18" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9CYHj0aFYEfQo12m--S_-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="9CYHj0aFYEfQo12m--S_-3" target="9CYHj0aFYEfQo12m--S_-6">
           <mxGeometry relative="1" as="geometry" />
