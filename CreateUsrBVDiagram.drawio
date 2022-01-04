@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-04T21:15:01.981Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="29pgFozoeeg26F_NMfCb" version="16.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-04T21:15:55.305Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="jAeABlOoloZx6lyZrrbT" version="16.1.2" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -416,7 +416,7 @@
           <mxGeometry x="320" y="70" width="100" height="580" as="geometry" />
         </mxCell>
         <mxCell id="3hEVocAEEJqlAJwwCpEs-3" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="3hEVocAEEJqlAJwwCpEs-2">
-          <mxGeometry x="45" y="120" width="10" height="320" as="geometry" />
+          <mxGeometry x="45" y="120" width="10" height="360" as="geometry" />
         </mxCell>
         <mxCell id="3hEVocAEEJqlAJwwCpEs-4" value="Sipecom" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="B_QlYbkl2MIjCO_kNmnn-1">
           <mxGeometry x="460" y="70" width="100" height="580" as="geometry" />
@@ -565,6 +565,21 @@
               <mxPoint x="380" y="221" />
             </Array>
             <mxPoint x="649.5" y="221" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="47RrgvrLT8vyOPgL6Srv-0" value="Notificador" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="B_QlYbkl2MIjCO_kNmnn-1">
+          <mxGeometry x="1241" y="70" width="100" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="47RrgvrLT8vyOPgL6Srv-1" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="47RrgvrLT8vyOPgL6Srv-0">
+          <mxGeometry x="45" y="140" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ErkVUl3PNuIWfD3iN3zj-0" value="notifica" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="B_QlYbkl2MIjCO_kNmnn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375.5" y="530" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="385.5" y="530" />
+            </Array>
+            <mxPoint x="1290.5" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
