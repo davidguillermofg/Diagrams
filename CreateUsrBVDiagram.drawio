@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-07T14:16:54.514Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="2UFmoXwuN2dF_qil9MJZ" version="16.2.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-11T14:17:12.736Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="PASo5QZEdXp3Zzyeaq5G" version="16.2.2" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -151,14 +151,6 @@
         <mxCell id="avbut2eXZ5brxpKetmpm-0" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="u_KxbNGc8AKxNMHF0Q1M-4" vertex="1" connectable="0">
           <mxGeometry x="0.13" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="u_KxbNGc8AKxNMHF0Q1M-7" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="_YSctVdKPvV12GA2VOCD-1" source="u_KxbNGc8AKxNMHF0Q1M-1" target="u_KxbNGc8AKxNMHF0Q1M-5" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="720" y="72" />
-              <mxPoint x="720" y="72" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="u_KxbNGc8AKxNMHF0Q1M-1" value="BancaVirtual&#xa;188.1.1.2" style="swimlane;startSize=50;fontSize=10;" parent="_YSctVdKPvV12GA2VOCD-1" vertex="1">
