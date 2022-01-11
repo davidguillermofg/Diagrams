@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T21:17:32.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="g-6U0bxU_UqUfvpQ9Uos" version="16.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-11T21:18:00.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="duj-Tp-wuG8Zbh9U8QrT" version="16.2.4" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="865" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -654,7 +654,7 @@
             <mxPoint x="786" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hEVocAEEJqlAJwwCpEs-26" value="reseteoContrasenia" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="B_QlYbkl2MIjCO_kNmnn-1" edge="1">
+        <mxCell id="3hEVocAEEJqlAJwwCpEs-26" value="reseteoContrasenia" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.9;exitY=0.778;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" parent="B_QlYbkl2MIjCO_kNmnn-1" edge="1" target="3hEVocAEEJqlAJwwCpEs-10" source="3hEVocAEEJqlAJwwCpEs-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="380" y="470" as="sourcePoint" />
             <Array as="points">
