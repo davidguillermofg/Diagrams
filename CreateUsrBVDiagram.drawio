@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T21:16:31.265Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="O6DPeyOofyL8HshsT7OG" version="16.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-11T21:17:06.723Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="gBJeLGGhBcP6dg-7wKN2" version="16.2.4" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="865" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -792,6 +792,20 @@
             <mxPoint x="915" y="203" as="sourcePoint" />
             <Array as="points" />
             <mxPoint x="1229.5" y="203" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="REuHLfFCo8q0KQHD7A4I-0" value="consultaDatos" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=0.9;exitY=0.433;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.1;entryY=0.575;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="B_QlYbkl2MIjCO_kNmnn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1024" y="272.99" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="1121" y="273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pCs9zhnFggAXNIcmqxPd-0" value="consultaTCs" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=1;exitY=0.129;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="B_QlYbkl2MIjCO_kNmnn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="375" y="264.15" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="1019.5" y="264" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
