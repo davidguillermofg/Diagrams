@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T20:35:54.543Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="s34F2NjPchk6lsLLHCa7" version="16.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-11T20:39:48.703Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="gwbiH8BfYGsQonOLwwoO" version="16.2.4" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="1008" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,7 +307,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="lhI2t7knJ6leEkCeQSSU" name="DiagramaSeqCreacion">
-    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="RGqZYKWncilZxPbHRnBE-0" />
         <mxCell id="RGqZYKWncilZxPbHRnBE-1" parent="RGqZYKWncilZxPbHRnBE-0" />
@@ -487,11 +487,21 @@
             <mxPoint x="1290.5" y="530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5vEj08mzRgTZgbXnXC5W-1" value="envioOTP" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="RGqZYKWncilZxPbHRnBE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="810" y="350" />
+              <mxPoint x="990" y="360" />
+            </Array>
+            <mxPoint x="1290.5" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="nwHdrgM72y0ADwOzRjyf" name="DiagramaSeqReseteoPwd">
-    <mxGraphModel dx="868" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1008" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="B_QlYbkl2MIjCO_kNmnn-0" />
         <mxCell id="B_QlYbkl2MIjCO_kNmnn-1" parent="B_QlYbkl2MIjCO_kNmnn-0" />
@@ -669,6 +679,16 @@
               <mxPoint x="385.5" y="530" />
             </Array>
             <mxPoint x="1290.5" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qvm8ENsHj8Iidp8OlkA8-0" value="envioOTP" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="B_QlYbkl2MIjCO_kNmnn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="810" y="350" />
+              <mxPoint x="990" y="360" />
+            </Array>
+            <mxPoint x="1290.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
