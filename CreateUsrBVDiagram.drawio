@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-11T21:17:19.852Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="9E348VWcQ-pKtDx1Nvv-" version="16.2.4" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-11T21:17:32.092Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="g-6U0bxU_UqUfvpQ9Uos" version="16.2.4" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="865" dy="425" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -737,12 +737,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qzLhiKEGzmdC5sVk9_-t-0" value="validaPreguntasDesafio" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=1;exitY=0.895;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="B_QlYbkl2MIjCO_kNmnn-1" target="3hEVocAEEJqlAJwwCpEs-22">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.2145" relative="1" as="geometry">
             <mxPoint x="375" y="381" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="380" y="382" />
             </Array>
             <mxPoint x="929.5" y="382" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rSLhZPciTJpOh2G6PN7h-0" value="BASE DE DATOS" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="B_QlYbkl2MIjCO_kNmnn-1">
