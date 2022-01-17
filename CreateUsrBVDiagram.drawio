@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T16:00:11.772Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="LAp0ltytxGZ8ha4D3KSV" version="16.2.7" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-17T17:10:10.727Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="6iSbsLoE_KjPj4i8nzd3" version="16.2.7" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="835" dy="410" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -169,10 +169,10 @@
         <mxCell id="u_KxbNGc8AKxNMHF0Q1M-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" parent="u_KxbNGc8AKxNMHF0Q1M-1" vertex="1">
           <mxGeometry x="62" y="60" width="33.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="u_KxbNGc8AKxNMHF0Q1M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="_YSctVdKPvV12GA2VOCD-1" source="u_KxbNGc8AKxNMHF0Q1M-5" target="uyaS-0h4w8pPvJDCUpg5-11" edge="1">
+        <mxCell id="u_KxbNGc8AKxNMHF0Q1M-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="_YSctVdKPvV12GA2VOCD-1" source="u_KxbNGc8AKxNMHF0Q1M-5" target="uyaS-0h4w8pPvJDCUpg5-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1010" y="137" />
+              <mxPoint x="1010" y="104" />
               <mxPoint x="1010" y="830" />
               <mxPoint x="365" y="830" />
             </Array>
