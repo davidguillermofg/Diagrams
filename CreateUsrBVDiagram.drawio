@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T14:56:59.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="3kOM22lUFWvuVn8IqyRp" version="16.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-18T14:57:16.527Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="_aFEiJM3kMDT_y5Z-YTU" version="16.1.2" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -445,12 +445,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Xmr4lVLdJCfGXGOpu_wR-20" value="OCTOPUS_PCI&#xa;10.16.0.106&#xa;CMS_CENTRAL&#xa;CMS_CLIENTE&#xa;&#xa;" style="swimlane;startSize=70;fontSize=10;" vertex="1" parent="_YSctVdKPvV12GA2VOCD-1">
-          <mxGeometry x="300" y="870" width="180" height="212" as="geometry">
+          <mxGeometry x="300" y="870" width="150" height="160" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Xmr4lVLdJCfGXGOpu_wR-21" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="Xmr4lVLdJCfGXGOpu_wR-20">
-          <mxGeometry x="43" y="75" width="98.4" height="120" as="geometry" />
+          <mxGeometry x="67" y="89.32" width="51.4" height="62.68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
