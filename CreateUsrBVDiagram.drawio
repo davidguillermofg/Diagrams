@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-18T14:46:11.045Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="uSaiexMto7An_6gym6Sf" version="16.1.2" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2022-01-18T14:47:46.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.43" etag="m9Ll2JmZPM5yT3MHjHoi" version="16.1.2" type="github" pages="7">
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,9 +68,13 @@
         <mxCell id="uyaS-0h4w8pPvJDCUpg5-4" value="FW" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;fontSize=10;" parent="_YSctVdKPvV12GA2VOCD-1" vertex="1">
           <mxGeometry x="220" y="74" width="53" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="ABwx23lLMnExg3dDF6HY-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="_YSctVdKPvV12GA2VOCD-1" source="uyaS-0h4w8pPvJDCUpg5-6" target="u_KxbNGc8AKxNMHF0Q1M-5" edge="1">
+        <mxCell id="ABwx23lLMnExg3dDF6HY-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.916;exitY=-0.033;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" parent="_YSctVdKPvV12GA2VOCD-1" source="GE4Y8O1F9TtYH1m1vECE-19" target="u_KxbNGc8AKxNMHF0Q1M-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="464" y="270" />
+              <mxPoint x="780" y="270" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="avbut2eXZ5brxpKetmpm-1" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ABwx23lLMnExg3dDF6HY-0" vertex="1" connectable="0">
@@ -253,6 +257,10 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="416" y="402.5" as="sourcePoint" />
             <mxPoint x="523" y="582.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="673" y="560" />
+              <mxPoint x="558" y="560" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iZUQEbQxgMh_Yf_IPqDQ-6" value="TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="iZUQEbQxgMh_Yf_IPqDQ-5" vertex="1" connectable="0">
