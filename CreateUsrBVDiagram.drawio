@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T17:20:04.547Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="yILpOE9AFY9pZrEgDx-H" version="16.4.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-02-01T17:20:50.071Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="dBEddu3g62QAAihsWuJT" version="16.4.5" type="github" pages="9">
   <diagram id="wYtr63PZC35uGRrlT0xy" name="Final Despliegue">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -1498,26 +1498,11 @@
             <mxPoint x="940" y="273" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="af5cEP1T5eU49npiBcDi-65" value="consultaPreguntasDesafio" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="af5cEP1T5eU49npiBcDi-1">
+        <mxCell id="af5cEP1T5eU49npiBcDi-65" value="validaPreguntasDesafio" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="af5cEP1T5eU49npiBcDi-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="430" y="422" as="sourcePoint" />
             <Array as="points" />
             <mxPoint x="1020" y="422" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="af5cEP1T5eU49npiBcDi-66" value="" style="html=1;verticalAlign=bottom;endArrow=classic;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;startArrow=none;startFill=0;endFill=1;" edge="1" parent="af5cEP1T5eU49npiBcDi-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="410" y="359" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="450" y="359" />
-              <mxPoint x="520" y="353" />
-            </Array>
-            <mxPoint x="670" y="359" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="af5cEP1T5eU49npiBcDi-67" value="CreacionUsuarioTemporal" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="af5cEP1T5eU49npiBcDi-66">
-          <mxGeometry x="-0.2638" y="3" relative="1" as="geometry">
-            <mxPoint x="84" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="af5cEP1T5eU49npiBcDi-68" value="CASH&lt;br&gt;Servicios" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="af5cEP1T5eU49npiBcDi-1">
