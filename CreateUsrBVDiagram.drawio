@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T16:23:36.561Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="RMro5zhtZluYaEiHGlrv" version="16.4.5" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-01T16:26:12.192Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Edg/97.0.1072.76" etag="tHH7Og0wsCzczuOIBwSS" version="16.4.5" type="github" pages="8">
   <diagram id="wYtr63PZC35uGRrlT0xy" name="Final Despliegue">
     <mxGraphModel grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" page="1" fold="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -995,7 +995,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_p1tGZu6pckgH8j8aAy-7" value="creacionUsuario" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="RGqZYKWncilZxPbHRnBE-1" source="TM_MfLn2uwVq1YLX5VOv-21" edge="1">
+        <mxCell id="Z_p1tGZu6pckgH8j8aAy-7" value="RegistraClientePersona" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="RGqZYKWncilZxPbHRnBE-1" source="TM_MfLn2uwVq1YLX5VOv-21" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="484" as="sourcePoint" />
             <Array as="points">
@@ -1136,13 +1136,6 @@
             <mxPoint x="1020" y="408" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z_p1tGZu6pckgH8j8aAy-5" value="consultaPreguntasSeguridad" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="RGqZYKWncilZxPbHRnBE-1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="446" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="1190.5" y="446" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="wGjrrmphdayL7cQpULZF-1" value="" style="html=1;verticalAlign=bottom;endArrow=classic;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;startArrow=none;startFill=0;endFill=1;" parent="RGqZYKWncilZxPbHRnBE-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="410" y="338" as="sourcePoint" />
@@ -1187,6 +1180,13 @@
         </mxCell>
         <mxCell id="TM_MfLn2uwVq1YLX5VOv-18" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=1;fillColor=#FFFFFF;fontFamily=Verdana;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="TM_MfLn2uwVq1YLX5VOv-17">
           <mxGeometry x="35" y="140" width="10" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="TM_MfLn2uwVq1YLX5VOv-23" value="consultaPreguntasSeguridad" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" edge="1" parent="RGqZYKWncilZxPbHRnBE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="446" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="1436.5" y="446" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
