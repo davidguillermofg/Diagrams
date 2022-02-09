@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-09T14:05:01.776Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="VeVi_8wN0gGwVFXRxz-V" version="16.5.2" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2022-02-09T14:08:17.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.80 Safari/537.36 Edg/98.0.1108.43" etag="4M7UDwvtUezew6QwmL4Y" version="16.5.2" type="github" pages="9">
   <diagram id="wYtr63PZC35uGRrlT0xy" name="Final Despliegue">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -174,7 +174,7 @@
             <mxPoint x="271" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PI3Krtpaoo_uIj8jfOd0-40" value="FITBANK&#xa;10.1.1.13,10.1.1.14,10.1.1.15,10.1.1.102" style="swimlane;startSize=50;fontSize=10;" parent="2ScnDoJGi8Cti6PnIQGG-1" vertex="1">
+        <mxCell id="PI3Krtpaoo_uIj8jfOd0-40" value="FITBANK&#xa;10.1.1.46, 10.1.1.47, 10.1.1.48, 10.1.1.69&#xa;10.1.1.13,10.1.1.14,10.1.1.15,10.1.1.102" style="swimlane;startSize=50;fontSize=10;" parent="2ScnDoJGi8Cti6PnIQGG-1" vertex="1">
           <mxGeometry x="660" y="59.999999999999986" width="190" height="144.83" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
