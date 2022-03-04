@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-04T16:16:10.286Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="XfFszFIPxyBai9Houb1Y" version="16.6.0" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2022-03-04T16:17:33.562Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36 Edg/98.0.1108.56" etag="t_I_G-xkqLAYVUFvCbsR" version="16.6.0" type="github" pages="12">
   <diagram id="wYtr63PZC35uGRrlT0xy" name="Final Despliegue">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -526,7 +526,7 @@
           <mxGeometry x="640" y="70" width="70" height="590" as="geometry" />
         </mxCell>
         <mxCell id="af5cEP1T5eU49npiBcDi-21" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="af5cEP1T5eU49npiBcDi-20" vertex="1">
-          <mxGeometry x="30" y="271" width="10" height="60" as="geometry" />
+          <mxGeometry x="30" y="272" width="10" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EFtZmUrVYuScwD8t2YLj-3" value="validacionPregSegCTA" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="af5cEP1T5eU49npiBcDi-20" target="EFtZmUrVYuScwD8t2YLj-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -817,7 +817,17 @@
           <mxGeometry x="46" y="140" width="10" height="350" as="geometry" />
         </mxCell>
         <mxCell id="b5uRIk92l4R09gJonrTi-2" value="WCFCMSExtreme" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="b5uRIk92l4R09gJonrTi-0">
-          <mxGeometry x="-30" y="150" width="132" height="30" as="geometry" />
+          <mxGeometry x="-41" y="250" width="132" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="b5uRIk92l4R09gJonrTi-4" value="validaPinTD" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="af5cEP1T5eU49npiBcDi-1" source="af5cEP1T5eU49npiBcDi-8">
+          <mxGeometry x="-0.719" relative="1" as="geometry">
+            <mxPoint x="417" y="323.5" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="340" />
+            </Array>
+            <mxPoint x="1620" y="340" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -2315,7 +2325,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KrMzK71G1uzwPE4_VKgE" name="DiagramaConceptual">
-    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
