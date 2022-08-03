@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T21:02:53.943Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="AjQAP5lqNRtGrdtoCQhJ" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T21:03:59.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="0L-UpKfC3zYh4gEptyO_" version="20.2.3" type="github">
   <diagram id="RTYbcDVvE7wrckEaf1F-" name="Página-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -50,8 +50,14 @@
         <mxCell id="IADzxCIoD7UAo-bKpoTY-28" value="ProcesaTran_ConsultaBancosSPI()&lt;br&gt;(configTran006.xml)&lt;br&gt;&lt;br&gt;codigo: 5, desc.:&amp;nbsp;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;BANCO DEL PICHINCHA, CuentaBCE: 1600022&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
           <mxGeometry x="385" y="180" width="190" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="IADzxCIoD7UAo-bKpoTY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-4" source="IADzxCIoD7UAo-bKpoTY-34" target="IADzxCIoD7UAo-bKpoTY-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-34" value="BuscarCtaBancoSPI(codBcoReceptor)&lt;br&gt;CuentaBCE: 1600022" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
           <mxGeometry x="400" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IADzxCIoD7UAo-bKpoTY-36" value="BuscarCNombreBancoSPI(codBcoReceptor)&lt;br&gt;nomBcoDestino: BANCO DEL PICHINCHA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
+          <mxGeometry x="400" y="320" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-5" value="FTB" style="swimlane;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="640" width="770" height="510" as="geometry" />
