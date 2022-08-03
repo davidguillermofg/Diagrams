@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T20:56:07.465Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="VID-jWIvKWP7qsUMJtRm" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T21:00:20.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="fcirvWCOchY4J1REBI92" version="20.2.3" type="github">
   <diagram id="RTYbcDVvE7wrckEaf1F-" name="Página-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-4" value="ESB" style="swimlane;horizontal=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="10" width="820" height="460" as="geometry" />
+          <mxGeometry x="200" y="20" width="820" height="460" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-4" source="IADzxCIoD7UAo-bKpoTY-2" target="IADzxCIoD7UAo-bKpoTY-8">
           <mxGeometry relative="1" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry x="400" y="250" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-27" value="TCredito&lt;br&gt;SISTEMACOBROSPAGOS&lt;br&gt;SP&amp;nbsp;banco_S (CuentaCorrienteBCE)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
-          <mxGeometry x="640" y="275" width="110" height="80" as="geometry" />
+          <mxGeometry x="650" y="295" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-4" source="IADzxCIoD7UAo-bKpoTY-28" target="IADzxCIoD7UAo-bKpoTY-27">
           <mxGeometry relative="1" as="geometry">
@@ -47,11 +47,11 @@
         <mxCell id="IADzxCIoD7UAo-bKpoTY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-4" source="IADzxCIoD7UAo-bKpoTY-28" target="IADzxCIoD7UAo-bKpoTY-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IADzxCIoD7UAo-bKpoTY-28" value="ProcesaTran_ConsultaBancosSPI()&lt;br&gt;(configTran006.xml)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
-          <mxGeometry x="400" y="300" width="160" height="30" as="geometry" />
+        <mxCell id="IADzxCIoD7UAo-bKpoTY-28" value="ProcesaTran_ConsultaBancosSPI()&lt;br&gt;(configTran006.xml)&lt;br&gt;&lt;br&gt;codigo: 5, desc.:&amp;nbsp;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;BANCO DEL PICHINCHA, CuentaBCE: 1600022&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
+          <mxGeometry x="390" y="300" width="190" height="70" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-34" value="BuscarCtaBancoSPI(codBcoReceptor)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
-          <mxGeometry x="400" y="350" width="160" height="30" as="geometry" />
+          <mxGeometry x="400" y="390" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-5" value="FTB" style="swimlane;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="640" width="770" height="510" as="geometry" />
