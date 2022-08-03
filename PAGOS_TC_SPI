@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T21:19:27.547Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="BmkqRJSM-0rSSq5PQrVW" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T21:21:07.957Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="L5JXlIjwwSK9cJ1A34Qt" version="20.2.3" type="github">
   <diagram id="RTYbcDVvE7wrckEaf1F-" name="Página-1">
     <mxGraphModel dx="1304" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -62,7 +62,7 @@
         <mxCell id="IADzxCIoD7UAo-bKpoTY-5" value="FTB" style="swimlane;horizontal=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="640" width="770" height="510" as="geometry" />
         </mxCell>
-        <mxCell id="IADzxCIoD7UAo-bKpoTY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-5" source="IADzxCIoD7UAo-bKpoTY-13" target="IADzxCIoD7UAo-bKpoTY-17">
+        <mxCell id="IADzxCIoD7UAo-bKpoTY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-5" source="3AC7tdbQQXN6MuE0XFuX-3" target="IADzxCIoD7UAo-bKpoTY-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-13" value="04-7999&lt;br&gt;EJECUTA MWS)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-5">
@@ -98,6 +98,15 @@
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-21" value="TEMPLATE FINANCIERO" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-5">
           <mxGeometry x="610" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3AC7tdbQQXN6MuE0XFuX-3" value="&lt;span style=&quot;font-size: 8px; text-align: left;&quot;&gt;Pasa variable&lt;br&gt;Proceso&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-5">
+          <mxGeometry x="535" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3AC7tdbQQXN6MuE0XFuX-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=none;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-5" source="IADzxCIoD7UAo-bKpoTY-13" target="3AC7tdbQQXN6MuE0XFuX-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="790" as="sourcePoint" />
+            <mxPoint x="670" y="740" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="IADzxCIoD7UAo-bKpoTY-11" target="IADzxCIoD7UAo-bKpoTY-1">
           <mxGeometry relative="1" as="geometry" />
