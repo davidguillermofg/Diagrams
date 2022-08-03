@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T21:15:35.264Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="YXqmtBr5Py6T0a3eLnBj" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T21:16:26.111Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="mPja1LLC2JM_zFoT11LR" version="20.2.3" type="github">
   <diagram id="RTYbcDVvE7wrckEaf1F-" name="Página-1">
     <mxGraphModel dx="1304" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="IADzxCIoD7UAo-bKpoTY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-5" source="IADzxCIoD7UAo-bKpoTY-19" target="IADzxCIoD7UAo-bKpoTY-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IADzxCIoD7UAo-bKpoTY-19" value="04-7412" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-5">
+        <mxCell id="IADzxCIoD7UAo-bKpoTY-19" value="TRAN&lt;br&gt;04-7412" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-5">
           <mxGeometry x="430" y="280" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-21" value="TEMPLATE FINANCIERO" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-5">
