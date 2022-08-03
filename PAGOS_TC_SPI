@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-03T20:48:18.861Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="72dQ5m_H2fZ6bVEUsQKm" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-03T20:49:32.691Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="m24r7mjWtx_cKOITBUDe" version="20.2.3" type="github">
   <diagram id="RTYbcDVvE7wrckEaf1F-" name="Página-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,7 +36,7 @@
         <mxCell id="IADzxCIoD7UAo-bKpoTY-24" value="ProcesaTran_PagoTarForaneaSPI()&lt;br&gt;(config.xml)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
           <mxGeometry x="400" y="250" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IADzxCIoD7UAo-bKpoTY-27" value="TCredito&lt;br&gt;SISTEMACOBROSPAGOS&lt;br&gt;SP&amp;nbsp;banco_S" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
+        <mxCell id="IADzxCIoD7UAo-bKpoTY-27" value="TCredito&lt;br&gt;SISTEMACOBROSPAGOS&lt;br&gt;SP&amp;nbsp;banco_S (CuentaCorrienteBCE)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="IADzxCIoD7UAo-bKpoTY-4">
           <mxGeometry x="640" y="275" width="110" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="IADzxCIoD7UAo-bKpoTY-4" source="IADzxCIoD7UAo-bKpoTY-28" target="IADzxCIoD7UAo-bKpoTY-27">
