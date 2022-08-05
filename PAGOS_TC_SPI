@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T19:55:35.022Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="F9-HQXZSaidtWeK4hns-" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T20:00:57.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="caq09NuQQuBESBMfxBjg" version="20.2.3" type="github">
   <diagram id="RTYbcDVvE7wrckEaf1F-" name="Página-1">
     <mxGraphModel dx="1304" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,6 +70,11 @@
               <mxPoint x="770" y="335" />
               <mxPoint x="770" y="165" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="carCu3Pg7DPhe5kmvdz6-30" value="Debito de Valor y Comision" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="carCu3Pg7DPhe5kmvdz6-26">
+          <mxGeometry x="-0.376" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IADzxCIoD7UAo-bKpoTY-36" value="BuscarCNombreBancoSPI(codBcoReceptor)&lt;br&gt;nomBcoDestino: BANCO DEL PICHINCHA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" parent="IADzxCIoD7UAo-bKpoTY-4" vertex="1">
