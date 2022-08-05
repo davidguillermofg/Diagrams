@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T19:35:26.397Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="1q5iUHkVrAl0WpT22DcD" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T19:35:43.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="_5RUSNJ7Ebl6bN-2BEOm" version="20.2.3" type="github">
   <diagram id="RTYbcDVvE7wrckEaf1F-" name="Página-1">
     <mxGraphModel dx="1304" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -141,6 +141,9 @@
         </mxCell>
         <mxCell id="carCu3Pg7DPhe5kmvdz6-8" value="https://10.1.99.171/EasyWebApiEmpresasv2&lt;br&gt;/api/cargas/OrdenTeclado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="carCu3Pg7DPhe5kmvdz6-7">
           <mxGeometry x="45" y="30" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="carCu3Pg7DPhe5kmvdz6-9" value="CRONTAB .SH&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="735" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
