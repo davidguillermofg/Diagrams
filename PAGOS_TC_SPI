@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-05T20:07:24.787Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="KG-22SpWkJpuQs65PKD1" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-05T20:07:32.642Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="Vwkwyfk_e08OvJvQHoA4" version="20.2.3" type="github">
   <diagram id="RTYbcDVvE7wrckEaf1F-" name="Página-1">
     <mxGraphModel dx="1304" dy="529" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
           <mxGeometry x="2040" y="295" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="carCu3Pg7DPhe5kmvdz6-38" value="&lt;span style=&quot;&quot;&gt;CRONTAB &lt;br&gt;.SH&amp;nbsp;&lt;br&gt;FITBANK&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="1080" y="730" width="80" height="80" as="geometry" />
+          <mxGeometry x="1121" y="720" width="120" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
