@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T14:11:29.335Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="kDSMExfP1yYUE_UB_XKU" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T14:11:41.888Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="rRnnRbFD66-ORwNCfIA-" version="21.2.1" type="github">
   <diagram name="Page-1" id="cdJFgnRZKSv7TjTgte76">
     <mxGraphModel dx="924" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,20 +63,6 @@
         </mxCell>
         <mxCell id="kGz52Ocv0qRSrAAiTenu-17" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="kGz52Ocv0qRSrAAiTenu-16">
           <mxGeometry x="38.2" y="58.5" width="33.6" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="kGz52Ocv0qRSrAAiTenu-18" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="kGz52Ocv0qRSrAAiTenu-19" target="kGz52Ocv0qRSrAAiTenu-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="535" y="260" as="targetPoint" />
-            <mxPoint x="530" y="180" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kGz52Ocv0qRSrAAiTenu-19" value="DETECTID&#xa;10.1.1.248" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="650" y="150.17" width="110" height="90" as="geometry">
-            <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="kGz52Ocv0qRSrAAiTenu-20" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="kGz52Ocv0qRSrAAiTenu-19">
-          <mxGeometry x="44.85" y="53.75" width="20.3" height="36.25" as="geometry" />
         </mxCell>
         <mxCell id="kGz52Ocv0qRSrAAiTenu-21" value="SWBUS_Integracion&#xa;xxx.xxx.xxx.xxx&#xa;" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="510" y="495" width="100" height="130" as="geometry">
