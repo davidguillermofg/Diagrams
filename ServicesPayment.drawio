@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-02T14:01:02.303Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="MSuh_HhRdJiq1macA1Bb" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-02T14:04:31.136Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="TpKpUQdfSia36Uc1qgR3" version="21.2.1" type="github">
   <diagram name="Page-1" id="cdJFgnRZKSv7TjTgte76">
     <mxGraphModel dx="924" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,14 +64,14 @@
         <mxCell id="kGz52Ocv0qRSrAAiTenu-17" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="kGz52Ocv0qRSrAAiTenu-16">
           <mxGeometry x="38.2" y="58.5" width="33.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kGz52Ocv0qRSrAAiTenu-18" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="kGz52Ocv0qRSrAAiTenu-20" target="kGz52Ocv0qRSrAAiTenu-30">
+        <mxCell id="kGz52Ocv0qRSrAAiTenu-18" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="kGz52Ocv0qRSrAAiTenu-19" target="kGz52Ocv0qRSrAAiTenu-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="535" y="260" as="targetPoint" />
             <mxPoint x="530" y="180" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kGz52Ocv0qRSrAAiTenu-19" value="DETECTID&#xa;10.1.1.248" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="610" y="36.16999999999999" width="110" height="90" as="geometry">
+          <mxGeometry x="650" y="150.17" width="110" height="90" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -91,9 +91,6 @@
             <mxPoint x="161" y="302.5" as="sourcePoint" />
             <mxPoint x="271" y="360" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="kGz52Ocv0qRSrAAiTenu-28" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="403.91190000000006" y="445" as="geometry" />
         </mxCell>
         <mxCell id="kGz52Ocv0qRSrAAiTenu-29" value="ServiceFacilito" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="380" width="134" height="27" as="geometry" />
@@ -138,6 +135,24 @@
         </mxCell>
         <mxCell id="kGz52Ocv0qRSrAAiTenu-46" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="kGz52Ocv0qRSrAAiTenu-45">
           <mxGeometry x="38.2" y="65" width="33.6" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kGz52Ocv0qRSrAAiTenu-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" target="kGz52Ocv0qRSrAAiTenu-49" source="kGz52Ocv0qRSrAAiTenu-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="660" y="550" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kGz52Ocv0qRSrAAiTenu-48" value="TCP:64234" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="kGz52Ocv0qRSrAAiTenu-47">
+          <mxGeometry x="-0.0414" relative="1" as="geometry">
+            <mxPoint x="-3" y="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kGz52Ocv0qRSrAAiTenu-49" value="CPPBATRANSA&#xa;10.1.1.141&#xa;DBSwitchServicio&#xa;" style="swimlane;startSize=70;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="732.5" y="480" width="110" height="160" as="geometry">
+            <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kGz52Ocv0qRSrAAiTenu-50" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="kGz52Ocv0qRSrAAiTenu-49">
+          <mxGeometry x="33.2" y="80" width="51.4" height="62.68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
