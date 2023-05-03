@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T20:25:58.887Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="-aE3HzgpEjB-KXV1Aux5" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T20:26:40.426Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="frKreSvEKV5w3Wy08Whs" version="21.2.1" type="github">
   <diagram name="Page-1" id="xk-CDliX0W9DwiVPzAdf">
     <mxGraphModel dx="924" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="8pju_qnQEa6VrLn-cQm_-4" value="FW" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="195" y="95.17" width="53" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="8pju_qnQEa6VrLn-cQm_-5" value="MICROSERVICIOS/OPENSHIFT&#xa;10.1.1.156" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="8pju_qnQEa6VrLn-cQm_-5" value="MICROSERVICIOS/OPENSHIFT&#xa;10.1.1.156&#xa;fitcanales.bancodelaustro.com" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="300" y="247" width="200" height="183" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
