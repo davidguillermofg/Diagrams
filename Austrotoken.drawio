@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T20:22:59.607Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="QNL9pGpq4Pfkb2fcCu-l" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T20:23:20.372Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="AYzDlTspdRXKklkTwkI5" version="21.2.1" type="github">
   <diagram name="Page-1" id="xk-CDliX0W9DwiVPzAdf">
     <mxGraphModel dx="924" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -64,20 +64,6 @@
         <mxCell id="8pju_qnQEa6VrLn-cQm_-16" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="8pju_qnQEa6VrLn-cQm_-15">
           <mxGeometry x="38.2" y="58.5" width="33.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8pju_qnQEa6VrLn-cQm_-17" value="&#xa;SWBUS_Integracion&#xa;VPN&#xa;xxx.xxx.xxx.xxx&#xa;" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="510" y="495" width="100" height="125" as="geometry">
-            <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8pju_qnQEa6VrLn-cQm_-18" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="8pju_qnQEa6VrLn-cQm_-17">
-          <mxGeometry x="38.2" y="60" width="33.6" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8pju_qnQEa6VrLn-cQm_-19" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="8pju_qnQEa6VrLn-cQm_-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="161" y="302.5" as="sourcePoint" />
-            <mxPoint x="509.5" y="425" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="8pju_qnQEa6VrLn-cQm_-21" value="serviceaustrotoken" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
           <mxGeometry x="476" y="310" width="134" height="27" as="geometry" />
         </mxCell>
@@ -136,21 +122,6 @@
         </mxCell>
         <mxCell id="8pju_qnQEa6VrLn-cQm_-35" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="8pju_qnQEa6VrLn-cQm_-34">
           <mxGeometry x="33.2" y="73" width="38.54" height="47" as="geometry" />
-        </mxCell>
-        <mxCell id="8pju_qnQEa6VrLn-cQm_-36" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="8pju_qnQEa6VrLn-cQm_-30">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="576.5" y="425" as="sourcePoint" />
-            <mxPoint x="920" y="430" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="577" y="450" />
-              <mxPoint x="930" y="450" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="8pju_qnQEa6VrLn-cQm_-37" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8pju_qnQEa6VrLn-cQm_-36">
-          <mxGeometry x="-0.2988" y="3" relative="1" as="geometry">
-            <mxPoint x="11" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="8pju_qnQEa6VrLn-cQm_-38" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.186;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8pju_qnQEa6VrLn-cQm_-21" target="8pju_qnQEa6VrLn-cQm_-30">
           <mxGeometry relative="1" as="geometry">
