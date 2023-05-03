@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T20:24:45.282Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="YCCSgx_6g2aAzFwlxF5V" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T20:25:58.887Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="-aE3HzgpEjB-KXV1Aux5" version="21.2.1" type="github">
   <diagram name="Page-1" id="xk-CDliX0W9DwiVPzAdf">
     <mxGraphModel dx="924" dy="347" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
             <mxPoint x="2" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8pju_qnQEa6VrLn-cQm_-15" value="BancaVirtual&#xa;188.1.1.2" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="8pju_qnQEa6VrLn-cQm_-15" value="BancaVirtual&#xa;188.1.1.2&#xa;MobilDevices&#xa;" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="344" y="42" width="110" height="130" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
