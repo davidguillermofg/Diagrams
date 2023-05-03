@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-03T20:31:42.457Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="7i-XgazCXM9UsYb9UqK-" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-03T20:31:59.292Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="GRbPbBIzBw4GdE8_uZaV" version="21.2.1" type="github">
   <diagram name="Page-1" id="cdJFgnRZKSv7TjTgte76">
     <mxGraphModel dx="924" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -182,14 +182,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vSwvDELcTv9OiLuH6LFH-1" value="Notificador&#xa;10.1.1.108" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="31" y="181.5" width="100" height="130" as="geometry">
+          <mxGeometry x="85" y="305" width="100" height="130" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vSwvDELcTv9OiLuH6LFH-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="vSwvDELcTv9OiLuH6LFH-1">
           <mxGeometry x="38.2" y="60" width="33.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vSwvDELcTv9OiLuH6LFH-3" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSwvDELcTv9OiLuH6LFH-1" target="kGz52Ocv0qRSrAAiTenu-30">
+        <mxCell id="vSwvDELcTv9OiLuH6LFH-3" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="vSwvDELcTv9OiLuH6LFH-1" target="kGz52Ocv0qRSrAAiTenu-30">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="161" y="302.5" as="sourcePoint" />
             <mxPoint x="259" y="310" as="targetPoint" />
