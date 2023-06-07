@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T21:52:49.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="CPLeT4HbqOFWoTjyTQxg" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T21:53:06.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="LOVJenaNO8kJR6yuUasa" version="21.3.7" type="github">
   <diagram name="Page-1" id="Z4hU_i1W0K4hISijN-ml">
     <mxGraphModel dx="887" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,57 +123,11 @@
         <mxCell id="tt0dRa5JOj4n6_rr54RX-32" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="tt0dRa5JOj4n6_rr54RX-31">
           <mxGeometry x="33.2" y="73" width="38.54" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-33" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.186;entryY=-0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tt0dRa5JOj4n6_rr54RX-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="434.5" y="137.24603174603175" as="sourcePoint" />
-            <mxPoint x="913" y="362" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="630" y="190" />
-              <mxPoint x="922" y="280" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-34" value="HTTPS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tt0dRa5JOj4n6_rr54RX-33">
-          <mxGeometry x="-0.2988" y="3" relative="1" as="geometry">
-            <mxPoint x="11" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-35" value="SOLICITAR Y VALIDAR OTP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tt0dRa5JOj4n6_rr54RX-33">
-          <mxGeometry x="-0.1746" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-36" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tt0dRa5JOj4n6_rr54RX-38">
+        <mxCell id="tt0dRa5JOj4n6_rr54RX-36" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="310" as="targetPoint" />
-            <mxPoint x="530" y="180" as="sourcePoint" />
+            <mxPoint x="530.4896710568862" y="130.112184195209" as="sourcePoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-37" value="DETECTID&#xa;10.1.1.248" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="480" y="41.999999999999986" width="110" height="90" as="geometry">
-            <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-38" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="tt0dRa5JOj4n6_rr54RX-37">
-          <mxGeometry x="44.85" y="53.75" width="20.3" height="36.25" as="geometry" />
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="tt0dRa5JOj4n6_rr54RX-37" target="tt0dRa5JOj4n6_rr54RX-41">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590" y="54" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-40" value="TCP:64234" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tt0dRa5JOj4n6_rr54RX-39">
-          <mxGeometry x="-0.0414" relative="1" as="geometry">
-            <mxPoint x="-3" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-41" value="CPPBATRANSA&#xa;10.1.1.141&#xa;detectid_mg&#xa;" style="swimlane;startSize=70;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="690" y="34.34" width="100" height="119.83" as="geometry">
-            <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-42" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="tt0dRa5JOj4n6_rr54RX-41">
-          <mxGeometry x="33.2" y="73" width="38.54" height="47" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
