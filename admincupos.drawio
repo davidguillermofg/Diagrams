@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-07T21:51:25.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="vcVfx28DpSMnWOCFnedS" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-07T21:52:32.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="408wcuMFxwIyfCkESAve" version="21.3.7" type="github">
   <diagram name="Page-1" id="Z4hU_i1W0K4hISijN-ml">
     <mxGraphModel dx="887" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="tt0dRa5JOj4n6_rr54RX-4" value="FW" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="195" y="95.17" width="53" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-5" value="MICROSERVICIOS/OPENSHIFT&#xa;10.1.1.156&#xa;fitcanales.bancodelaustro.com" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="300" y="247" width="200" height="183" as="geometry">
+        <mxCell id="tt0dRa5JOj4n6_rr54RX-5" value="ESB CORE&#xa;10.16.0.113&#xa;wsadmincuposPADSS" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="297" y="256.17" width="200" height="183" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -56,7 +56,7 @@
             <mxPoint x="2" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-15" value="BancaVirtual&#xa;188.1.1.2&#xa;&#xa;" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="tt0dRa5JOj4n6_rr54RX-15" value="BancaVirtual&#xa;188.1.1.2&#xa;webAdminCupos&#xa;" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="344" y="42" width="106" height="130" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
