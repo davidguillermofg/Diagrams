@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T20:25:10.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hrnPzQN9Ws0JP9vTn2qi" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T20:26:08.567Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="nbpXXSst00NmdF_o-9xN" version="21.3.7" type="github">
   <diagram name="Page-1" id="Z4hU_i1W0K4hISijN-ml">
     <mxGraphModel dx="887" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -120,7 +120,7 @@
             <mxPoint x="13" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-31" value="CPPBATRANSA&#xa;10.1.1.141&#xa;Sige_Participante&#xa;Par_P_ConsIdent&#xa;" style="swimlane;startSize=70;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="tt0dRa5JOj4n6_rr54RX-31" value="CPPBATRANSA&#xa;10.1.1.141&#xa;&lt;Sige_Participante&gt;&#xa;Par_P_ConsIdent&#xa;" style="swimlane;startSize=70;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="676" y="249.99999999999997" width="110" height="120" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
@@ -189,7 +189,7 @@
             <mxPoint x="-3" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSPwb1oSsL_XrIytxSTT-14" value="&#xa;TCREDITO&#xa;10.1.1.141&#xa;dbESB&#xa;ProductoCliente&#xa;ProductoClienteDetalle&#xa;ValoresCliente&#xa;Valores&#xa;&#xa;nts_tarjcred&#xa;nts.sp_ProductoClienteDetalle&#xa;_TXIdClienteIdCanalTC&#xa;&#xa;" style="swimlane;startSize=150;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="mSPwb1oSsL_XrIytxSTT-14" value="&#xa;TCREDITO&#xa;10.1.1.141&#xa;&lt;dbESB&gt;&#xa;ProductoCliente&#xa;ProductoClienteDetalle&#xa;ValoresCliente&#xa;Valores&#xa;&#xa;&lt;nts_tarjcred&gt;&#xa;nts.sp_ProductoClienteDetalle&#xa;_TXIdClienteIdCanalTC&#xa;&#xa;" style="swimlane;startSize=150;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="841.5" y="230" width="160" height="200" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
