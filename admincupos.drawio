@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T20:05:29.775Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="HjUZVp2oJ5xXzcjctT5I" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T20:05:56.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="enqJWopOnT57_juaY_fn" version="21.3.7" type="github">
   <diagram name="Page-1" id="Z4hU_i1W0K4hISijN-ml">
     <mxGraphModel dx="887" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
             <mxPoint x="530.4896710568862" y="130.112184195209" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mSPwb1oSsL_XrIytxSTT-1" value="Sipecom&#xa;10.1.1.119&#xa;" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
+        <mxCell id="mSPwb1oSsL_XrIytxSTT-1" value="ESB&#xa;10.16.0.113" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="560" y="41.17" width="106" height="130" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
