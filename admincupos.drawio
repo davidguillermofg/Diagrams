@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T20:08:05.540Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DUnAptXA4lzmNb0zgeHj" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T20:08:22.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="cmerbvhLnVDhALA0u4iN" version="21.3.7" type="github">
   <diagram name="Page-1" id="Z4hU_i1W0K4hISijN-ml">
     <mxGraphModel dx="887" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -142,7 +142,7 @@
         <mxCell id="mSPwb1oSsL_XrIytxSTT-2" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_server.svg;fontSize=10;" vertex="1" parent="mSPwb1oSsL_XrIytxSTT-1">
           <mxGeometry x="36.2" y="52.34" width="33.6" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mSPwb1oSsL_XrIytxSTT-6" value="&lt;a style=&quot;overflow-wrap: break-word;&quot; class=&quot;fui-Link ___1idfs5o f3rmtva f1ewtqcl fyind8e f1k6fduh f1w7gpdv fk6fouc fjoy568 figsok6 f1hu3pq6 f11qmguv f19f4twv f1tyq0we f1g0x7ka fhxju0i f1qch9an f1cnd47f fqv5qza f1vmzxwi f1o700av f13mvf36 f1cmlufx f9n3di6 f1ids18y f1tx3yz7 f1deo86v f1eh06m1 f1iescvh ftqa4ok f2hkw1w fhgqx19 f1olyrje f1p93eir f1h8hb77 f1x7u7e9 f10aw75t fsle3fq f17ae5zn&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; href=&quot;https://gitlabce.austro.grpfin/bancoaustro/bus/bus/webservices/wsadmincupos&quot; title=&quot;https://gitlabce.austro.grpfin/bancoaustro/bus/bus/webservices/wsadmincupos&quot; aria-label=&quot;Vínculo https://gitlabce.austro.grpfin/bancoaustro/bus/bus/webservices/wsadmincupos&quot;&gt;wsadmincupos&lt;/a&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="mSPwb1oSsL_XrIytxSTT-1">
+        <mxCell id="mSPwb1oSsL_XrIytxSTT-6" value="wsAdminCupos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="mSPwb1oSsL_XrIytxSTT-1">
           <mxGeometry x="-100" y="58.58" width="120" height="33.83" as="geometry" />
         </mxCell>
         <mxCell id="mSPwb1oSsL_XrIytxSTT-4" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="mSPwb1oSsL_XrIytxSTT-1" target="tt0dRa5JOj4n6_rr54RX-27">
