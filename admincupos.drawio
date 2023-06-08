@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-08T20:16:49.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="IpHaE0ScyWSmEL58BhTu" version="21.3.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-08T20:17:26.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="3ORO5A5pkbiM4INh43N8" version="21.3.7" type="github">
   <diagram name="Page-1" id="Z4hU_i1W0K4hISijN-ml">
     <mxGraphModel dx="887" dy="362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -117,7 +117,7 @@
         </mxCell>
         <mxCell id="mSPwb1oSsL_XrIytxSTT-3" value="Recupera Mail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="tt0dRa5JOj4n6_rr54RX-29">
           <mxGeometry x="0.3648" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="13" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tt0dRa5JOj4n6_rr54RX-31" value="CPPBATRANSA&#xa;10.1.1.141&#xa;Sige_Participante&#xa;Par_P_ConsIdent&#xa;" style="swimlane;startSize=70;fontSize=10;" parent="1" vertex="1">
@@ -128,13 +128,13 @@
         <mxCell id="tt0dRa5JOj4n6_rr54RX-32" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/database_server.svg;" parent="tt0dRa5JOj4n6_rr54RX-31" vertex="1">
           <mxGeometry x="33.2" y="73" width="38.54" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="tt0dRa5JOj4n6_rr54RX-36" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" edge="1" source="mSPwb1oSsL_XrIytxSTT-6">
+        <mxCell id="tt0dRa5JOj4n6_rr54RX-36" value="HTTPS" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;entryX=0.669;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryPerimeter=0;" parent="1" edge="1" target="tt0dRa5JOj4n6_rr54RX-18" source="mSPwb1oSsL_XrIytxSTT-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="310" as="targetPoint" />
             <mxPoint x="530.4896710568862" y="130.112184195209" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="530" y="222" />
-              <mxPoint x="531" y="222" />
+              <mxPoint x="555" y="222" />
+              <mxPoint x="556" y="222" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mSPwb1oSsL_XrIytxSTT-1" value="ESB&#xa;10.16.0.113" style="swimlane;startSize=50;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="570" y="41.17" width="106" height="130" as="geometry">
+          <mxGeometry x="595" y="41.17" width="106" height="130" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -206,11 +206,6 @@
         <mxCell id="mSPwb1oSsL_XrIytxSTT-19" value="TCP:50110" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mSPwb1oSsL_XrIytxSTT-18">
           <mxGeometry x="-0.0414" relative="1" as="geometry">
             <mxPoint x="-3" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mSPwb1oSsL_XrIytxSTT-20" value="Recupera Mail" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mSPwb1oSsL_XrIytxSTT-18">
-          <mxGeometry x="0.3648" relative="1" as="geometry">
-            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
