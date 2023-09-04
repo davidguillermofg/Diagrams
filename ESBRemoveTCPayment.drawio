@@ -1,9 +1,250 @@
-<mxfile host="app.diagrams.net" modified="2023-09-04T16:16:58.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" version="21.7.2" etag="Ru52aKsChA7cJ43hfrVi" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-04T16:27:51.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="4lHdGBV_wJXTmtPsL062" version="21.7.2" type="github">
   <diagram name="Page-1" id="DLEcpf7ySr1LYi16kx4O">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-1" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-2" target="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-2" value="MBL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="110" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=8;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-4" target="qBabFWFjf3x5Ne5W2tVK-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="353" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-4" value="ESB" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="20" width="1910" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-6" target="qBabFWFjf3x5Ne5W2tVK-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-6" value="&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;lt;DatosTransaccion&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;lt;IdAplicacion&amp;gt;026&amp;lt;/IdAplicacion&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;lt;IdServicio&amp;gt;002&amp;lt;/IdServicio&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;lt;IdTransaccion&amp;gt;014&amp;lt;/IdTransaccion&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;lt;Token&amp;gt;XXX&amp;lt;/Token&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;lt;Datos&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Numero_documento&amp;gt;637951363312026751&amp;lt;/Numero_documento&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Tipo_cuenta&amp;gt;AHO&amp;lt;/Tipo_cuenta&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Numero_cuenta&amp;gt;0400444005&amp;lt;/Numero_cuenta&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Oficina_Cta_Contb_DB&amp;gt;0100&amp;lt;/Oficina_Cta_Contb_DB&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Oficina_Cta_Contb_CR&amp;gt;0100&amp;lt;/Oficina_Cta_Contb_CR&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Valor_transaccion&amp;gt;500&amp;lt;/Valor_transaccion&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Valor_comision&amp;gt;001&amp;lt;/Valor_comision&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Codigo_moneda&amp;gt;USD&amp;lt;/Codigo_moneda&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Usuario&amp;gt;PaTaFo&amp;lt;/Usuario&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Indicador_sobregiro /&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Canal&amp;gt;SRV&amp;lt;/Canal&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Servicio_Producto&amp;gt;15&amp;lt;/Servicio_Producto&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;Horario&amp;gt;D&amp;lt;/Horario&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;VerificarComision&amp;gt;N&amp;lt;/VerificarComision&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;CodBcoReceptor&amp;gt;5&amp;lt;/CodBcoReceptor&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;NomOrdenante&amp;gt;CABRERA DIAZ MARCO GENARO&amp;lt;/NomOrdenante&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;NroCtaBeneficiario&amp;gt;456889XXXXXX2016&amp;lt;/NroCtaBeneficiario&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;CodTipoCtaBeneficiario&amp;gt;TAR&amp;lt;/CodTipoCtaBeneficiario&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;NomBeneficiario&amp;gt;Pedro Lara&amp;lt;/NomBeneficiario&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;CedRUCBeneficiario&amp;gt;0105281398&amp;lt;/CedRUCBeneficiario&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;InstruccEspeciales /&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;IdUsuario&amp;gt;UsrAppTransfCtasProp&amp;lt;/IdUsuario&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;MailOrdenante&amp;gt;fedumaguala@baustro&amp;lt;/MailOrdenante&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;MailBeneficiario /&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;lt;CelularOrdenante&amp;gt;&amp;lt;/CelularOrdenante&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;nbsp; &amp;lt;/Datos&amp;gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 8px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;&amp;lt;/DatosTransaccion&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="30" y="10" width="300" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-8" target="qBabFWFjf3x5Ne5W2tVK-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-8" value="ConectorPagoTarjetas" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="420" y="20" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-10" target="qBabFWFjf3x5Ne5W2tVK-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-10" value="ProcesaTran_PagoTarForaneaSPI()&lt;br&gt;(config.xml)" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="400" y="130" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-11" value="TCredito&lt;br&gt;SISTEMACOBROSPAGOS&lt;br&gt;SP&amp;nbsp;banco_S (CuentaCorrienteBCE)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="640" y="175" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-14" target="qBabFWFjf3x5Ne5W2tVK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="630" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-14" target="qBabFWFjf3x5Ne5W2tVK-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-14" value="ProcesaTran_ConsultaBancosSPI()&lt;br&gt;(configTran006.xml)&lt;br&gt;&lt;br&gt;codigo: 5, desc.:&amp;nbsp;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;BANCO DEL PICHINCHA, CuentaBCE: 1600022&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="385" y="180" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-16" target="qBabFWFjf3x5Ne5W2tVK-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-16" value="BuscarCtaBancoSPI(codBcoReceptor)&lt;br&gt;CuentaBCE: 1600022" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="400" y="270" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-19" target="qBabFWFjf3x5Ne5W2tVK-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="335" />
+              <mxPoint x="770" y="165" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-18" value="Debito de Valor y Comision" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qBabFWFjf3x5Ne5W2tVK-17">
+          <mxGeometry x="-0.376" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-19" value="BuscarCNombreBancoSPI(codBcoReceptor)&lt;br&gt;nomBcoDestino: BANCO DEL PICHINCHA" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="400" y="320" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-20" value="GuardarTransaccionSPIFIT()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#9EFFFF;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="1570" y="190" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.364;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-23" target="qBabFWFjf3x5Ne5W2tVK-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-22" value="NO OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qBabFWFjf3x5Ne5W2tVK-21">
+          <mxGeometry x="-0.347" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-23" value="GuardarTransaccionSPI()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="1090" y="320" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-25" target="qBabFWFjf3x5Ne5W2tVK-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-25" value="ConectorDebitosCreditos" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="1230" y="110" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-30" target="qBabFWFjf3x5Ne5W2tVK-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-31" target="qBabFWFjf3x5Ne5W2tVK-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.429;entryY=-0.028;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-31" target="qBabFWFjf3x5Ne5W2tVK-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-29" value="OK" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qBabFWFjf3x5Ne5W2tVK-28">
+          <mxGeometry x="0.1459" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-30" value="&lt;div&gt;&amp;lt;IdAplicacion&amp;gt;026&amp;lt;/IdAplicacion&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;lt;IdServicio&amp;gt;001&amp;lt;/IdServicio&amp;gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;lt;IdTransaccion&amp;gt;001&amp;lt;/IdTransaccion&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="890" y="90" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-31" value="Process()" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="1260" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-33" target="qBabFWFjf3x5Ne5W2tVK-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-33" value="isTransaccionPagoTarjeta()&lt;br&gt;CodTipoCtaBeneficiario=TAR&lt;br&gt;TAR=04" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="1320" y="420" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-34" value="new Thread&lt;br&gt;enviarNotificacionPagoTarForanea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="1610" y="420" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-35" value="clsDebCre.Process(xmlReverso)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-4">
+          <mxGeometry x="1054" y="490" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-36" value="OK" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-4" source="qBabFWFjf3x5Ne5W2tVK-23" target="qBabFWFjf3x5Ne5W2tVK-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="240" as="sourcePoint" />
+            <mxPoint x="1306" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-37" value="FTB" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="640" width="770" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;startArrow=none;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-37" source="qBabFWFjf3x5Ne5W2tVK-49" target="qBabFWFjf3x5Ne5W2tVK-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-39" value="04-7999&lt;br&gt;EJECUTA MWS)" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-37">
+          <mxGeometry x="430" y="120" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-37" source="qBabFWFjf3x5Ne5W2tVK-42" target="qBabFWFjf3x5Ne5W2tVK-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-41" value="DISPARA PROCESOS DESDE MWS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qBabFWFjf3x5Ne5W2tVK-40">
+          <mxGeometry x="-0.3765" relative="1" as="geometry">
+            <mxPoint x="65" y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-42" value="&lt;div&gt;{&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&quot;tip&quot;: &quot;BUS_BA_VALID&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&quot;sub&quot;: &quot;04&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&quot;trn&quot;: &quot;7999&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&quot;can&quot;: &quot;MWS&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;&quot;ctl&quot;: {&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;SubsistemaEjecuta&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;TransaccionEjecuta&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;CanalProcesa&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Usuario&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Debito_Credito&quot;: &quot;DB&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Caja&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Razon&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Proceso&quot;: &quot;PAGOTC_SPI_AUSTRODIGITAL&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;CuentaDebita&quot;: &quot;0400518327&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Valor&quot;: &quot;6&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;ValorComision&quot;: &quot;0.4&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Referencia&quot;: &quot;637949679477696116&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;CuentaAcredita&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;IdPropietario&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Tipo_cuenta&quot;: &quot;AHO&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Sobre&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;Item&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;MsgReverso&quot;: &quot;&quot;,&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;  &lt;/span&gt;&quot;DetalleReverso&quot;: &quot;&quot;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt; &lt;/span&gt;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;align=left;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-37">
+          <mxGeometry x="40" y="10" width="280" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-37" source="qBabFWFjf3x5Ne5W2tVK-45" target="qBabFWFjf3x5Ne5W2tVK-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-44" value="FILTRA&lt;br&gt;&lt;span style=&quot;font-size: 8px; text-align: left; background-color: rgb(248, 249, 250);&quot;&gt;PAGOTC_SPI_AUSTRODIGITAL&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qBabFWFjf3x5Ne5W2tVK-43">
+          <mxGeometry x="-0.8682" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-45" value="REGLA 700&lt;br&gt;(00-2024)" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-37">
+          <mxGeometry x="620" y="60" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-37" source="qBabFWFjf3x5Ne5W2tVK-47" target="qBabFWFjf3x5Ne5W2tVK-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-47" value="TRAN&lt;br&gt;04-7412" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-37">
+          <mxGeometry x="430" y="280" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-48" value="TEMPLATE FINANCIERO&lt;br&gt;(12-2006)" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-37">
+          <mxGeometry x="610" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-49" value="&lt;span style=&quot;font-size: 8px; text-align: left;&quot;&gt;Pasa variable&lt;br&gt;Proceso&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-37">
+          <mxGeometry x="535" y="80" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=8;endArrow=none;" edge="1" parent="qBabFWFjf3x5Ne5W2tVK-37" source="qBabFWFjf3x5Ne5W2tVK-39" target="qBabFWFjf3x5Ne5W2tVK-49">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="790" as="sourcePoint" />
+            <mxPoint x="670" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-37">
+          <mxGeometry x="480" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-53" target="qBabFWFjf3x5Ne5W2tVK-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-53" value="Client" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="30" y="250" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-67" target="qBabFWFjf3x5Ne5W2tVK-56">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="980" y="889.9999999999998" as="targetPoint" />
+            <mxPoint x="1080" y="779.9411764705881" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-67" target="qBabFWFjf3x5Ne5W2tVK-58">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1550" y="894.9999999999998" as="targetPoint" />
+            <mxPoint x="1279.9999999999995" y="779.9411764705881" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-56" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;ORACLE&lt;br&gt;&lt;/span&gt;FITAUSTROPM&lt;br style=&quot;font-size: 8px;&quot;&gt;&lt;span style=&quot;font-size: 8px;&quot;&gt;(TGIROSTRANSFERENCIASAUTORIZADO)&lt;/span&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="840" y="820" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-51" target="qBabFWFjf3x5Ne5W2tVK-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-58" value="CASH" style="swimlane;horizontal=0;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="750" width="390" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-59" value="https://10.1.99.171/EasyWebApiEmpresasv2&lt;br&gt;/api/cargas/OrdenTeclado" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="qBabFWFjf3x5Ne5W2tVK-58">
+          <mxGeometry x="45" y="30" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-60" value="TCredito&lt;br&gt;DBESB&lt;br&gt;(TransaccionSPI)" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="2130" y="330" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=none;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-23" target="qBabFWFjf3x5Ne5W2tVK-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-62" value="Estado=PEN" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qBabFWFjf3x5Ne5W2tVK-61">
+          <mxGeometry x="-0.5488" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.001;exitY=0.124;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-20" target="qBabFWFjf3x5Ne5W2tVK-60">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1930" y="240" />
+              <mxPoint x="2185" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-64" value="Estado=FIT" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qBabFWFjf3x5Ne5W2tVK-63">
+          <mxGeometry x="0.0101" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qBabFWFjf3x5Ne5W2tVK-66" target="qBabFWFjf3x5Ne5W2tVK-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-66" value="CashControl&lt;br&gt;ServicioWindows&lt;br&gt;Timer" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="2350" y="315" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="qBabFWFjf3x5Ne5W2tVK-67" value="&lt;span style=&quot;&quot;&gt;CRONTAB &lt;br&gt;.SH&amp;nbsp;&lt;br&gt;FITBANK&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="720" width="120" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
