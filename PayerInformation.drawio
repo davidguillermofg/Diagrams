@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T14:48:05.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="EXBXeizmpOXGxgdpiwW4" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T14:49:12.147Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="agXsml0q1-qcRDfFF1id" version="23.1.6" type="github">
   <diagram name="Page-1" id="cdJFgnRZKSv7TjTgte76">
     <mxGraphModel dx="1034" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -22,7 +22,7 @@
         <mxCell id="kGz52Ocv0qRSrAAiTenu-5" value="FW" style="image;html=1;image=img/lib/clip_art/networking/Firewall_02_128x128.png;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="195" y="95.17" width="53" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="kGz52Ocv0qRSrAAiTenu-6" value="MICROSERVICIOS&#xa;10.1.1.156" style="swimlane;startSize=50;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="kGz52Ocv0qRSrAAiTenu-6" value="OPENSHIFT&#xa;CLUSTER" style="swimlane;startSize=50;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="335" y="247" width="160" height="183" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
@@ -56,7 +56,7 @@
             <mxPoint x="2" y="-23" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kGz52Ocv0qRSrAAiTenu-16" value="BancaVirtual&#xa;188.1.1.2" style="swimlane;startSize=50;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="kGz52Ocv0qRSrAAiTenu-16" value="Canal Web/&#xa;Dispositivo Movil" style="swimlane;startSize=50;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="344" y="42" width="110" height="130" as="geometry">
             <mxRectangle x="310" y="150" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
